@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandre (Sandro)</h1>
 <h3 align="center">Architecting Digital Realms: Crafting Games and Solutions</h3>
 
-- 🔭 I’m currently working on **publishing my portfolio on github**
+- 🔭 I’m currently working on **creating portfolio**
 
 - 📫 How to reach me **aleksandrekazakhishvili@gmail.com**
 
