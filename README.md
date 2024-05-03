@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksandre (Sandro)</h1>
-<h3 align="center">Architecting Digital Realms: Crafting Games and Solutions</h3>
+<h3 align="center">Game and Software Developer with a keen interest in IT. Proficient in C++, C#, PHP, and JavaScript, with foundational skills in Java and Python. Enthusiastic about applying technical expertise to develop engaging software and gaming solutions in dynamic, agile environments.</h3>
 
 - 🔭 I’m currently working on **creating portfolio**
 
