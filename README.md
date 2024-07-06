@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksandre (Sandro)</h1>
-<h3 align="center">Cybernaut.</h3>
+<h3 align="center">---Cybernaut---</h3>
 
 - 🔭 I’m currently working on **creating portfolio**
 
