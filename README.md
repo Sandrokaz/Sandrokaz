@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandre (Sandro)</h1>
 <h3 align="center">---Cybernaut---</h3>
 
-- 🔭 Skilled Cybernaut**
+- 🔭 Skilled Cybernaut
 
 - 📫 How to reach me **aleksandrekazakhishvili@gmail.com**
 
